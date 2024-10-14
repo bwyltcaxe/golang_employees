@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+    "errors"
 	"github.com/bwyltcaxe/golang_employees/internal/person"
 )
 
